@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aditiiip
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in reading, skating idk
+- 🌱 I’m currently learning ui ux design
+- 📫 How to reach me ...do not!
 
 <!---
 aditiiip/aditiiip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
