@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @aditiiip
 - 👀 I’m interested in reading, skating idk
 - 🌱 I’m currently learning ui ux design
-- 📫 How to reach me ...do not!
+- 📫 Playing with Flutter
+
 
 <!---
 aditiiip/aditiiip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
