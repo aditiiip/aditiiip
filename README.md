@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aditiiip
-- 👀 I’m interested in reading, skating idk
+- 👀 I’m interested in reading and skating
 - 🌱 I’m currently learning ui ux design
 - 📫 Playing with Flutter
 
