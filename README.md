@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aditiiip
-- 👀 I’m interested in reading and skating
-- 🌱 I’m currently learning ui ux design
+- 👀 I’m interested in Reading and Skating
+- 🌱 I’m currently learning UI/UX Design
 - 📫 Playing with Flutter
 
 
