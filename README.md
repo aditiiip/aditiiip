@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @aditiiip
+  👩‍🎓 I am BCA student
 - 👀 I’m interested in Reading and Skating
 - 🌱 I’m currently learning UI/UX Design
 - 📫 Playing with Flutter
