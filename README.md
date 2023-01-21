@@ -1,6 +1,6 @@
 h1 align="center">Hi 👋, I'm Aditi</h1>
 <h3 align="center">Seeking expertise in Cloud Technologies</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2FThbbb_cloud-hosting-png-image-cloud-hosting-transparent-png%2F&psig=AOvVaw3uFYSFZp4o55ibAbTKQBba&ust=1674346288191000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKj31o-w1_wCFQAAAAAdAAAAABAW" alt="">
+
 
 
 - 🔭 I’m currently experimenting with **Ubuntu Linux**
